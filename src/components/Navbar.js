@@ -20,20 +20,20 @@ export class Navbar extends Component {
         
 
            <li className="nav-item">
-          <Link className="nav-link" to="/business">business</Link></li>
+          <Link className="nav-link" to="/business">Business</Link></li>
            <li className="nav-item">
-          <Link className="nav-link" to="/entertainment">entertainment</Link></li>
+          <Link className="nav-link" to="/entertainment">Entertainment</Link></li>
            <li className="nav-item">
-          <Link className="nav-link" to="/">general</Link></li>
+          <Link className="nav-link" to="/">General</Link></li>
            <li className="nav-item">
-          <Link className="nav-link" to="/health">health</Link></li>
+          <Link className="nav-link" to="/health">Health</Link></li>
            <li className="nav-item">
-          <Link className="nav-link" to="/science">science</Link></li>
+          <Link className="nav-link" to="/science">Science</Link></li>
         
            <li className="nav-item">
-          <Link className="nav-link" to="/sports">sports</Link></li>
+          <Link className="nav-link" to="/sports">Sports</Link></li>
            <li className="nav-item">
-          <Link className="nav-link" to="/technology">technology</Link></li>
+          <Link className="nav-link" to="/technology">Technology</Link></li>
        
      
       </ul>
